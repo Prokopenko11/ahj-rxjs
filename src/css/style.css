@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.table {
+  width: 100%;
+
+  border-collapse: collapse;
+}
+
+.table-title {
+  text-align: center;
+}
+
+th, td {
+  padding: 8px;
+  border: 1px solid #ddd;
+}
+
+th {
+  text-align: center;
+  background-color: #f2f2f2;
+}
